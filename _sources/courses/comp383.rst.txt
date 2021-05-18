@@ -1,37 +1,47 @@
-.. index:: computational biology
+.. header:: COMP 383: Computational Biology
+.. footer:: COMP 383: Computational Biology
 
+.. index::
+    Computational Biology
+    Biology
+    COMP 383
+
+###############################
 COMP 383: Computational Biology
-===============================
+###############################
 
-This course presents an algorithmic focus to problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignment, gene prediction, trees and sequences, databases, and rapid sequence analysis.
+******************
+Course Information
+******************
 
-Credit Hours
---------------------
+.. sidebar:: General Information
 
-4
+    **Credit Hours**
 
-Prerequisites
---------------------
+    * 4
 
-:doc:`../courses/comp381` or |biol388|
+    **Prerequisites**
 
-:doc:`../courses/comp271`
+    * :doc:`../courses/comp381` or |biol388|
+    * :doc:`../courses/comp271`
+
+About
+=====
+
+This course presents an algorithmic focus on problems in computational biology. It is built on earlier courses on algorithms and bioinformatics.   Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignments, gene prediction, trees and sequences, databases, and rapid sequence analysis.
 
 Description
---------------------
+===========
 
-This course presents an algorithmic focus to problems in computational
-biology. As such it is built on earlier courses on algorithms and
-bioinformatics. Problems and solutions covered in this course include
-Gene Hunting, Sequence Comparison, Multiple Alignment, Gene Prediction,
-Trees and Sequences, Databases and Rapid sequence analysis.
+This course presents an algorithmic focus on problems in computational biology. As such it is built on earlier courses on algorithms and bioinformatics. Problems and solutions covered in this course include Gene Hunting, Sequence Comparison, Multiple Alignment, Gene Prediction, Trees and Sequences, Databases, and Rapid sequence analysis.
 
 Outcome
-------------
+=======
 
 Students will learn, in detail, foundational methods and algorithms in bioinformatics.
 
+*******
 Syllabi
--------------
+*******
 
 See :doc:`../syllabi/syllabi`.

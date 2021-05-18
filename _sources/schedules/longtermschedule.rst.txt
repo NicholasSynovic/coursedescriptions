@@ -1,4 +1,7 @@
-COMP/CSIS Courses Long-Term Schedule
-====================================
+:orphan:
 
-* `Long-term Schedule (Google Sheets) <https://docs.google.com/spreadsheets/d/1QO7_P-keZkkK-rF1ZZNgmJWq6r0t-OHWmv1kXclvlFY/edit#gid=0>`__
+Long Term Schedule
+-----------------------------------------------------
+
+.. note::
+    The Long Term Schedule is now maintained at :doc:`schedules`.
